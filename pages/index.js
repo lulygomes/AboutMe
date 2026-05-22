@@ -56,7 +56,7 @@ function Home() {
   };
 
   const Main = () => {
-    return <main className={styles.main}>olá mundo nova branch</main>;
+    return <main className={styles.main}>olá mundo nova branchc1</main>;
   };
 
   const Footer = () => {
