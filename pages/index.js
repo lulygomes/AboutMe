@@ -30,7 +30,7 @@ function Home() {
       <header className={styles.header}>
         <section className={styles.section}>
           <h1>Luiz Antonio Gomes da Silva</h1>
-          <h2>Egenheiro de Software PL</h2>
+          <h2>Engenheiro de Software PL</h2>
           <h4>C# | .Net | SQL Server | React</h4>
           <p>
             <a href="mailto:luiz.gsilva42@gmail.com">luiz.gsilva42@gmail.com</a>{" "}
